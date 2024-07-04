@@ -229,4 +229,4 @@ values({
 
 ## License
 
-Config files are released under the Apache 2.0 license (same as Neovim itself).
+MIT license
